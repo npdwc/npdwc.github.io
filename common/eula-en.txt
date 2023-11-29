@@ -1,0 +1,32 @@
+LICENSE AGREEMENT FOR SOFTWARE PRODUCT BY NEURO PRODUCTS COMPANY
+
+This license agreement ("Agreement") is a legal document between you (either an individual or legal entity referred to as "User ") and Neuro Products DWC, LLC. (hereinafter "Author") on the above software (the "Program "or "Software "), which includes software, written in appropriate media or on Author's Web-site, any printed materials and any integrated or electronic documentation. By installing, copying or otherwise using the software, you agree to accept the conditions of this agreement. If you don't agree to the terms of this agreement, you may not use this program and it should be returned back to the seller and you get back the paid money.
+
+LICENSE
+This program is protected by laws and international copyright treaties, as well as other laws and treaties governing the relations of the copyright. The program is licensed, not sold.
+
+1. SCOPE OF LICENSE.
+This agreement gives to you the following rights:
+
+1.1. Use of the program. Permitted to install the program on one computer only. Primary user of the computer on which you installed this copy is permitted the creation of another copy solely for their work on the laptop.
+
+1.2. Storage and use of the network. Permitted storage, installation and start-up program from a shared storage device (example, web server). Moreover, for each computer on which it is installed or run from a network server, the program must obtain a separate license. The license for a program does not allow for joint or simultaneous use of the program on different computers in an amount greater than that given in Section 1.1.
+
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+2.1. Limitations on Reverse Engineering, Decompilation and disassembly. Not allowed to reverse engineer, decompile or disassemble the software, except and only to the extent that such activity is expressly permitted by applicable law, despite the existence of this limitation.
+
+2.2. Separation program. The Software is licensed as a whole. It can not be separated into components for use on multiple computers.
+
+2.3. Rental. You may not provide the program in rent or for temporary use.
+
+2.4. Technical Support Services. The author provides support services to software products (collectively, "Support Services"). Appeal to the author for support, carried out by e-mail: info@neuro-products.com , by phone: +971 505471847. Any additional programs and source code referred to you as a result of the provision of support services should be considered as part of the program and fall, so the limitations and conditions of this agreement. Technical data that are reported to technical support during the treatment may be used by the author for internal purposes, including technical support for software products and software development. The author will not use this information in a form disclosing your personal information.
+
+2.5. Transfer program. Allowed to permanently give up all of its rights hereunder only in connection with the sale or transfer of a computer, provided that you retain no copies, pass the entire program (including all component parts, the media and printed materials, any upgrades, this Agreement and certificates of authenticity, if any), and the recipient agrees to the terms of this agreement. If the program is an upgrade ("upgrade"), then any transfer must include all previous versions.
+
+2.6. Termination of the agreement. Without prejudice to any other rights, Author may terminate this agreement in non-compliance with terms and conditions of this agreement that will oblige you to destroy all copies and constitute part of the program.
+
+3. COPYRIGHT.
+3.1. All title and copyrights to the program (including any that are included in her control programs (applets), photographs, animation, video and sound recordings, music and text), the components of ActiveX, the accompanying printed materials and any copies of the program belong to the author. All rights reserved Author's program laws and international copyright treaties, as well as other laws and treaties governing the relations of the copyright. Therefore, the program must be treated as any other object of copyright, with the only exception that the program may be installed on one computer and keep the original provided that it will be used only as archive or a backup. Copying of printed materials accompanying the software is prohibited.
+
+4. VARIOUS MEDIA PROGRAMS.
+4.1. The program is available in several types of media, as well as on the Internet exclusively with Author's Web-site. Regardless of their type and capacity are allowed to use only one type of media, which corresponds exactly to your computer or network server. Not allowed to install with other carriers on other computers, to provide carriers rent or for temporary use or assign them for use for other purposes, except as a complete transfer of the software described above.
